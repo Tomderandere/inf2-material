@@ -4,7 +4,7 @@
             "name": "Inf2",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${userHome}/.conan2/**"
+                "w64devkit/**"
             ],
             "defines": [],
             "cppStandard": "c++20",
